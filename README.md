@@ -72,8 +72,7 @@ Phoenix, AZ
 
 		<h2>about this map</h2>
 		<p>Additional information about
-			<a href="#">the data</a> and map goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis urna magna, maximus nec
-			laoreet sit amet, dictum ultricies nibh. Ut id auctor lacus. Nam a dolor et justo luctus luctus.</p>
+			<a href="#">the data</a> and map goes here. </p>
 
 		<ul>
 			<!-- Change the following contacts to your personal brand, whatever you want it to be! -->
