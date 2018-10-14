@@ -3,7 +3,7 @@ Phoenix, AZ
 
 
 <head>
-	<meta charset=utf-8 />
+	
 	<title>Hometown Map</title>
 	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 
