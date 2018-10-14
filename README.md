@@ -77,9 +77,8 @@ Phoenix, AZ
 		<ul>
 			<!-- Change the following contacts to your personal brand, whatever you want it to be! -->
 			<li>See my projects on GitHub:
-				<a href="https://github.com/newmapsplus">New Maps Plus</a>
-			</li>
-		
+				<a href="https://github.com/tscu223">
+
 
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
 	    crossorigin="anonymous"></script>
