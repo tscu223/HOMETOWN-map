@@ -107,7 +107,6 @@
 			.openTooltip();
 	</script>
 
-</body>
+
 
 <img src="https://asdb.az.gov/wp-content/uploads/sites/8/2016/10/phoenix-az.jpg" alt="desert">
-</html>
