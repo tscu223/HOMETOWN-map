@@ -76,7 +76,7 @@
 
 		<ul>
 			<!-- Change the following contacts to your personal brand, whatever you want it to be! -->
-			<li>See my projects on GitHub:<a href="https://github.com/tscu223"</a>
+			<li>See my projects on GitHub:<a href="https://github.com/tscu223">Teya's Maps</a>
         </li>
 
 
