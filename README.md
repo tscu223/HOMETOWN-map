@@ -3,7 +3,7 @@ Phoenix, AZ
 
 
 <head>
-	
+
 	<title>Hometown Map</title>
 	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 
@@ -79,13 +79,7 @@ Phoenix, AZ
 			<li>See my projects on GitHub:
 				<a href="https://github.com/newmapsplus">New Maps Plus</a>
 			</li>
-			<li>Follow me on twitter:
-				<a href="https://twitter.com/NewMapsPlus">@NewMapsPlus</a>
-			</li>
-			<li>Visit my
-				<a href='#'>mapping portfolio</a>.</li>
-		</ul>
-	</section>
+		
 
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
 	    crossorigin="anonymous"></script>
