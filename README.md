@@ -1,7 +1,6 @@
 # HOMETOWN-map
 Phoenix, AZ
-<!DOCTYPE html>
-<html>
+
 
 <head>
 	<meta charset=utf-8 />
