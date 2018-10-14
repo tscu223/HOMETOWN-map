@@ -1,5 +1,5 @@
 # HOMETOWN-map
-Phoenix, AZ
+
 
 
 <head>
